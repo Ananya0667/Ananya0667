@@ -1,7 +1,6 @@
 
-<h2>Hey there! I'm Aditya</h2>
+<h2>Hey there! I'm Ananya</h2>
 
-/* ## 👋 &nbsp;Hey there! I'm Ananya */
 
 ### 👨🏻‍💻 &nbsp;About Me
 
