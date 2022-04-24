@@ -8,7 +8,7 @@
 🎓 &nbsp;I have graduated in Computer Science and Enginnering with a CGPA of 8.94/10.\
 🌱 &nbsp;I have a keen interst in Artificial Intelligence, Computer Vision and Image Processing.\
 ✍️ &nbsp;In my free time, I read Novels and Tech Blogs.\
-✉️ &nbsp;You can reach out to me on email ananya.sharma0667@gmail.com \
+✉️ &nbsp;You can reach out to me on email ananya.sharma0667@gmail.com 
 
 
 
