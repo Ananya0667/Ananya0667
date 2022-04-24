@@ -10,6 +10,9 @@ I'm a machine learning enthusiast. I have a keen interest in Computer Vision, Im
 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilgkrishnan&show_icons=true" alt="akhilgkrishnan" /></p>
+
+
 
 
 
