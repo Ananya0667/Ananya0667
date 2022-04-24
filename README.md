@@ -8,7 +8,7 @@
 🎓 &nbsp;I have graduated in Computer Science and Enginnering with a CGPA of 8.94/10.\
 🌱 &nbsp;I have a keen interst in Artificial Intelligence, Computer Vision and Image Processing.\
 ✍️ &nbsp;In my free time, I read Novels and Tech Blogs.\
-🌱 I worked as Programmer Analyst Trainee with Cognizant Technology Solutions.
+🌱 &nbsp;I worked as Programmer Analyst Trainee with Cognizant Technology Solutions. \
 ✉️ &nbsp;You can reach out to me on email ananya.sharma0667@gmail.com 
 
 
@@ -35,17 +35,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Ananya0667">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ananya0667&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ananya0667&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
 
