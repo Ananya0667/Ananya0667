@@ -5,10 +5,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop projects from them .\
-🎓 &nbsp;I have graduated in Computer Science and Enginnering with a CGPA of 8.94/10.\
-🌱 &nbsp;I have a keen interst in Artificial Intelligence, Computer Vision and Image Processing.\
-✍️ &nbsp;In my free time, I read Novels and Tech Blogs.\
-✉️ &nbsp;You can reach out to me on email ananya.sharma0667@gmail.com 
+🎓 &nbsp;I am pursuing Masters in Technology from IIT Delhi..\
+🌱 &nbsp;I am keenly interested in Linux Kernel Development & Systems Research.\
+✍️ &nbsp; I read Novels and Tech Blogs in my free time.\
+✉️ &nbsp; You can reach out to me on email ananya.sharma0667@gmail.com 
 
 
 
