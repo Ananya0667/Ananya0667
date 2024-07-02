@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop projects from them .\
-🎓 &nbsp;I am pursuing my Masters in Technology in Computer Technology from IIT Delhi.\
+🎓 &nbsp;I am pursuing my M.Tech in Computer Technology from IIT Delhi.\
 🌱 &nbsp;I am keenly interested in Linux Kernel Development & Systems Research.\
 ✍️ &nbsp; I read Novels and Tech Blogs in my free time.\
 ✉️ &nbsp; You can reach out to me on email ananya.sharma0667@gmail.com 
